@@ -1,0 +1,8 @@
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<body>
+<a href="javascript: document.logoutForm.submit()" > Logout Link </a>
+<form name="logoutForm" th:action="@{/logout}" method="post">
+    <input hidden type="submit" value="Logout"/>
+</form>
+</body>
+</html>
