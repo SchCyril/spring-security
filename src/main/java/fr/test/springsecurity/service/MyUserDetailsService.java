@@ -2,7 +2,7 @@ package fr.test.springsecurity.service;
 
 import fr.test.springsecurity.models.MyUserDetails;
 import fr.test.springsecurity.models.User;
-import fr.test.springsecurity.respository.UserRepository;
+import fr.test.springsecurity.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

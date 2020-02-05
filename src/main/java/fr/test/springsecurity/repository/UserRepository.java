@@ -1,7 +1,6 @@
-package fr.test.springsecurity.respository;
+package fr.test.springsecurity.repository;
 
 import fr.test.springsecurity.models.User;
-import jdk.nashorn.internal.ir.Optimistic;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
 package fr.test.springsecurity.controller;
 
-import fr.test.springsecurity.respository.UserRepository;
+import fr.test.springsecurity.repository.UserRepository;
 import fr.test.springsecurity.models.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
