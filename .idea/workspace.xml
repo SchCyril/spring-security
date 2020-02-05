@@ -286,14 +286,14 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="641" y="176" width="826" height="573" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1580913698719" />
-    <state x="586" y="324" width="494" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580900595414">
+    <state x="586" y="324" width="484" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580938450232">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="586" y="324" width="494" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1533.873@67.27.1533.873" timestamp="1580900595414" />
-    <state x="255" y="59" width="1147" height="807" key="CommitChangelistDialog2" timestamp="1580938254594">
+    <state x="586" y="324" width="484" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1533.873@67.27.1533.873" timestamp="1580938450232" />
+    <state x="255" y="59" width="1147" height="807" key="CommitChangelistDialog2" timestamp="1580938320112">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="255" y="59" width="1147" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1580938254594" />
+    <state x="255" y="59" width="1147" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1580938320112" />
     <state x="167" y="127" width="1333" height="673" key="DiffContextDialog" timestamp="1580824927715">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
@@ -346,14 +346,14 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state width="1487" height="272" key="GridCell.Tab.2.right/67.27.1533.873@67.27.1533.873" timestamp="1580831777569" />
-    <state x="428" y="199" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1580937869425">
+    <state x="428" y="199" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1580938335553">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="199" width="800" height="526" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1580937869425" />
-    <state x="605" y="243" width="446" height="438" key="chooseDestDirectoryDialog" timestamp="1580741758591">
+    <state x="428" y="199" width="800" height="526" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1580938335553" />
+    <state x="605" y="243" width="446" height="438" key="chooseDestDirectoryDialog" timestamp="1580938444458">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="605" y="243" width="446" height="438" key="chooseDestDirectoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1580741758591" />
+    <state x="605" y="243" width="446" height="438" key="chooseDestDirectoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1580938444458" />
     <state x="167" y="127" width="1333" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580824916689">
       <screen x="67" y="27" width="1533" height="873" />
     </state>

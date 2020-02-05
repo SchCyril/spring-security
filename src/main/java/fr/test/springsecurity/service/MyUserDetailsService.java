@@ -1,10 +1,8 @@
-package fr.test.springsecurity;
+package fr.test.springsecurity.service;
 
+import fr.test.springsecurity.models.MyUserDetails;
 import fr.test.springsecurity.models.User;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Bean;
-import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
+import fr.test.springsecurity.respository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,4 +1,4 @@
-package fr.test.springsecurity;
+package fr.test.springsecurity.models;
 
 import fr.test.springsecurity.models.User;
 import org.springframework.security.core.GrantedAuthority;

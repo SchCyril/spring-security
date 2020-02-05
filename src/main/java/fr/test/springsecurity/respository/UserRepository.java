@@ -1,4 +1,4 @@
-package fr.test.springsecurity;
+package fr.test.springsecurity.respository;
 
 import fr.test.springsecurity.models.User;
 import jdk.nashorn.internal.ir.Optimistic;
